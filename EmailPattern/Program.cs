@@ -5,7 +5,6 @@ namespace EmailPattern
 {
     class Program
     {
-        public static string REGEX_PATTERN = "^[A-Z]{1}[a-zA-Z]{2,}";
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome_To_Email Pattern");
